@@ -720,11 +720,11 @@ div.cave-grid>img[src$="prideoverviewbanner.png"] {
 	content: url('https://i.ibb.co/GvZL9bQJ/Leu-Overview.gif')!important;
 }
     
-a[href$="482237"]>div.cave-grid>img {
+a[href$="480986"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/27VL1dmb/Leu-First-Cave.gif') !important
 }
 
-a[href$="486032"]>div.cave-grid>img {
+a[href$="490036"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/gMZ1HJRC/Leu-Second-Cave.jpg') !important;
 }
 div.cave-grid>img[src$="caveunused.jpg"] {
@@ -741,10 +741,10 @@ div.mound-grid>img {
 	border-radius: 10px !important;
 	transition: 1.5s;
 }    
-a[href="mound.php?id=238733"] img {
+img[src$="beetleunsorted.png"] {
 content: url("https://i.ibb.co/KxYWnppZ/Leu-First-Mound.jpg") !important;
 }
-a[href="mound.php?id=235424"] img {
+a[href="mound.php?id=242113"] img {
 content: url("https://i.ibb.co/23wpgxr9/Leu-Second-Mound.jpg") !important;
 }
 img[src$="addbeetlemound.png"] {
