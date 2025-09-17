@@ -727,8 +727,11 @@ a[href$="480986"]>div.cave-grid>img {
 a[href$="490036"]>div.cave-grid>img {
 	content: url('https://i.ibb.co/gMZ1HJRC/Leu-Second-Cave.jpg') !important;
 }
+a[href$="500580"]>div.cave-grid>img {
+	content: url('https://i.ibb.co/B5kH0qRN/Leu-Unused.png') !important;
+}
 div.cave-grid>img[src$="caveunused.jpg"] {
-	content: url('https://i.ibb.co/B5kH0qRN/Leu-Unused.png')!important;
+	content: url('xxxxxxx')!important;
 }
 /* da mounds */
 div.mound-grid>img {
