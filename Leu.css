@@ -745,13 +745,13 @@ div.mound-grid>img {
 	transition: 1.5s;
 }    
 img[src$="beetleunsorted.png"] {
-content: url("https://i.ibb.co/KxYWnppZ/Leu-First-Mound.jpg") !important;
+content: url("https://i.ibb.co/TBSTGv42/Leu-Temp-Mounds.png") !important;
 }
 a[href="mound.php?id=242113"] img {
-content: url("https://i.ibb.co/23wpgxr9/Leu-Second-Mound.jpg") !important;
+content: url("https://i.ibb.co/TBSTGv42/Leu-Temp-Mounds.png") !important;
 }
 img[src$="addbeetlemound.png"] {
-content: url("https://i.ibb.co/3XYdgYG/Lue-Unused-Mound.png") !important;
+content: url(https://i.ibb.co/TBSTGv42/Leu-Temp-Mounds.png") !important;
 }
 .mound-grid img:hover{
 	filter: brightness(50%);
